@@ -1,6 +1,6 @@
 # jtims
 
-AI enablement and governance for go-to-market teams: getting AI from prototype to production with guardrails, audit trails and workflow automation that scales.
+AI enablement, governance, and scalability based upon agentic engineering principles: getting AI from prototype to production with self-enforced guardrails, fully compliant audit trails, and deterministic workflow automation that is replicable and repeatable at scale.
 
 ## Public work
 
@@ -14,4 +14,4 @@ AI enablement and governance for go-to-market teams: getting AI from prototype t
 
 ## How the work is done
 
-Every repository above was produced under the same discipline: the ask restated and counted, load-bearing claims labeled by how they are known, verification by an independent path, an adversarial pass before shipping, and a written record of what was and was not executed. The manual is the rulebook. The other four are what it produces.
+Every repository above was produced under the same discipline: the ask restated and counted, load-bearing claims labeled by how they are known, verification by an independent path, an adversarial pass before shipping, and a written record of what was and was not executed and their respective decision tress. The manual is the runbook; the work is the PoC.
