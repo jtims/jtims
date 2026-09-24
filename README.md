@@ -15,7 +15,3 @@ AI enablement and governance for go-to-market teams: getting AI from prototype t
 ## How the work is done
 
 Every repository above was produced under the same discipline: the ask restated and counted, load-bearing claims labeled by how they are known, verification by an independent path, an adversarial pass before shipping, and a written record of what was and was not executed. The manual is the rulebook. The other four are what it produces.
-
-## Platforms
-
-Claude across its surfaces, Lovable, n8n, MindStudio, Salesforce, HubSpot, 6sense.
