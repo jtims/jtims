@@ -14,4 +14,4 @@ AI enablement, governance, and scalability based upon agentic engineering princi
 
 ## How the work is done
 
-Every repository above was produced under the same discipline: the ask restated and counted, load-bearing claims labeled by how they are known, verification by an independent path, an adversarial pass before shipping, and a written record of what was and was not executed and their respective decision tress. The manual is the runbook; the work is the PoC.
+Every repository above was produced under the same discipline: the ask restated and counted, load-bearing claims labeled by how they are known, verification by an independent path, an adversarial pass before shipping, and a written record of what was and was not executed and their respective decision trees. The manual is the runbook; the work is the PoC.
