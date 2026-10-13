@@ -6,6 +6,7 @@ AI enablement, governance, and scalability based upon agentic engineering princi
 
 | Repository | What it is | What it shows |
 |---|---|---|
+| [Jeremiah Tims - Portfolio Brief](https://github.com/jtims/jtims/blob/main/Jeremiah%20Tims%20-%20Portfolio%20Brief.html) | In-depth insights to internal projects I've owned, built, and deployed along with their outcomes | The breadth and depth of my experience across high-impact private projects |
 | [frontier-operating-manual](https://github.com/jtims/frontier-operating-manual) | An operating discipline for AI coding agents, shipped as a Claude Code skill: standing rules with failure conditions, risk tiers, calibration labels, a written pre-send self-test | Governance as a runnable harness |
 | [ai-knowledge-repository](https://github.com/jtims/ai-knowledge-repository) | A validated knowledge graph of hard platform constraints and decision-enabling capabilities for Claude Code, Lovable, Git, reMarkable, n8n, Python and Atlassian, with a contract validator | Knowledge management built for decision time, with receipts |
 | [claude-code-swarm-kit](https://github.com/jtims/claude-code-swarm-kit) | A model-tiered multi-agent research kit: pinned roster, five-stage workflow, spawn doctrine, PreToolUse gates and linters | Cost governance as code, root-cause work, honest verification records |
